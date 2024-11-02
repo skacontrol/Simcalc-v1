@@ -1,2 +1,0 @@
-abrir cmd  y poner: 
-pyinstaller --onefile --windowed "simcalc.py"
